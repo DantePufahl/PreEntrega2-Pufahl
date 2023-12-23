@@ -1,0 +1,12 @@
+.img__icon{
+    display: flex;
+}
+
+.cart__icon{
+    width: 2rem;
+}
+.icon__div{
+    display: flex;
+    justify-content: end;
+    width: 10%;
+}
